@@ -1,3 +1,10 @@
+# Inhalt
+1. [Shorin Ryu](#shorin-ryu)
+    1. [Pinan](#pinan)
+    2. [Naihanchi](#naihanchi)
+2. [Uechi Ryu](#uechi-ryu)
+
+
 # Shorin Ryu
 
 Fukyu Kata Ichi
@@ -61,7 +68,7 @@ Pinan Godan
 
 * [Jim Sindt - Matsubayashi-Ryu](https://www.youtube.com/watch?v=81uH9zHSwhw)
 
-## Nahanchi
+## Naihanchi
 
 Naihanchi Shodan
 

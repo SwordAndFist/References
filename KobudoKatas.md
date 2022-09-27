@@ -1,3 +1,9 @@
+# Inhalt
+
+1. [Bo](#bo)
+2. [Sai](#sai)
+3. [Tonfa](#tonfa)
+
 # Bo
 Fukyu Kata
 
