@@ -4,14 +4,15 @@
 
 ### Karate
 
-* [Karate-Katas](./KarateKatas.md)
+* [Shinbukan-Youtube-Kanal](https://www.youtube.com/channel/UCo_1PlT_cQc1rfJtKHmjfQA)
+* [Karate-Katas-Videos](./KarateKatas.md)
 * Weiteres
     * [Liste mit Karate-Begriffen (inkl. Kanji)](https://de.wikipedia.org/wiki/Liste_von_Karate-Begriffen)
     * [Master Ken's Tiger Wisdom - Okinawan Karate](https://www.youtube.com/watch?v=_wXNDSWGfK4)
 
 ### Kobudo
 
-* [Kobudo-Katas](./KobudoKatas.md)
+* [Kobudo-Katas-Videos](./KobudoKatas.md)
 
 ### Aikido
 
@@ -29,8 +30,9 @@ tbd
 
 ### Bücher
 
-tbd
+* [Bücherliste Sachbücher](./Books.md)
+* [Bücherliste Belleristik](./Belletristik.md)
 
 ### Podcasts
 
-tbd
+* [Podcastliste](./Podcasts.md)
