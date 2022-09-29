@@ -76,4 +76,16 @@ Naihanchi Shodan
 
 # Uechi Ryu
 
-tbd
+Allgemein 
+
+* [Uechi Ryu - Master's Edition](https://www.youtube.com/watch?v=QTxbc_oeRD0)
+
+Uechi Ryu Seisan
+
+* [Lange Graue Haare](https://www.youtube.com/watch?v=y5ut-dmu_cY)
+
+# Gojo Ryu
+
+Suparimpei 
+
+* [Higaonna](https://www.youtube.com/watch?v=WCQhRJ3xWoQ)
