@@ -3,6 +3,7 @@
     1. [Pinan](#pinan)
     2. [Naihanchi](#naihanchi)
 2. [Uechi Ryu](#uechi-ryu)
+3. [Gojo Ryu](#gojo-ryu)
 
 
 # Shorin Ryu

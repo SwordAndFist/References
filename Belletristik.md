@@ -23,9 +23,9 @@
 ## Am Lesen
 
 
-| Titel (de) | Titel (en) |
-| --- | --- |
-| Heiße Hüpfer | tbd |
+| Titel (de) | Titel (en) | Autor |
+| --- | --- | --- |
+| Heiße Hüpfer | The Last Continent | Terry Pratchett |
 
 ## Backlog
 
