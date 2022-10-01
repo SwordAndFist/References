@@ -3,6 +3,7 @@
     1. [Pinan](#pinan)
     2. [Naihanchi](#naihanchi)
 2. [Uechi Ryu](#uechi-ryu)
+3. [Gojo Ryu](#gojo-ryu)
 
 
 # Shorin Ryu
@@ -76,4 +77,16 @@ Naihanchi Shodan
 
 # Uechi Ryu
 
-tbd
+Allgemein 
+
+* [Uechi Ryu - Master's Edition](https://www.youtube.com/watch?v=QTxbc_oeRD0)
+
+Uechi Ryu Seisan
+
+* [Lange Graue Haare](https://www.youtube.com/watch?v=y5ut-dmu_cY)
+
+# Gojo Ryu
+
+Suparimpei 
+
+* [Higaonna](https://www.youtube.com/watch?v=WCQhRJ3xWoQ)
