@@ -36,3 +36,8 @@ tbd
 ### Podcasts
 
 * [Podcastliste](./Podcasts.md)
+
+### Faktenchecks
+
+* [Correctiv](https://correctiv.org/faktencheck/)
+* [Faktenfuchs](https://www.br.de/nachrichten/faktenfuchs-faktencheck,QzSIzl3)

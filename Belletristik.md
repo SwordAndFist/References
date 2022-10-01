@@ -2,11 +2,21 @@
 
 ## Gelesen
 
-| Titel (de)                            | Titel (en) | Kategorie | gelesen (Jahr) |
+| Titel (de)                            | Titel (en)        | Autor | gelesen (Jahr) |
 | --- | --- | --- | --- |
-| Hohle Köpfe                           |                   | Scheibenwelt | 2022 |
-| Schweinsgalopp                        |                   | Scheibenwelt | 2022 |
-| Fliegende Fetzen                      |                   | Scheibenwelt | 2022 |
+| Die Tyrannei des Schmetterlings       | ?                 | Frank Schätzing | 2020 |
+| Wachen! Wachen!                       | Guards! Guards!   | Terry Pratchett | 202? |
+| Eric                                  | Eric              | Terry Pratchett | 202? |
+| Total verhext                         | Witches Abroad    | Terry Pratchett | 202? |
+| Einfach göttlich                      | Small Gods        | Terry Pratchett | 2021 |
+| Lords and Ladies                      | Lords and Ladies  | Terry Pratchett | 202? |
+| Helle Barden                          | Men at Arms       | Terry Pratchett | 202? |
+| Rollende Steine                       | Soul Music        | Terry Pratchett | 202? |
+| Echt zauberhaft                       | Interesting Times | Terry Pratchett | 2022 |
+| Mummenschatz                          | Maskerade         | Terry Pratchett | 2022 |
+| Hohle Köpfe                           | Feet of Clay      | Terry Pratchett | 2022 |
+| Schweinsgalopp                        | Hogfather         | Terry Pratchett | 2022 |
+| Fliegende Fetzen                      | Jingo             | Terry Pratchett | 2022 |
 
 
 
@@ -15,7 +25,7 @@
 
 | Titel (de) | Titel (en) |
 | --- | --- |
-| tbd |  tbd |
+| Heiße Hüpfer | tbd |
 
 ## Backlog
 
