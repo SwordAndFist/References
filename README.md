@@ -6,7 +6,7 @@
 
 Kata
 * [Shinbukan-Youtube-Kanal](https://www.youtube.com/channel/UCo_1PlT_cQc1rfJtKHmjfQA)
-* [Karate-Kata-Videos](./KarateKatas.md)
+* [Karate-Kata-Videos](./Kampfkunst/KarateKatas.md)
 
 Youtube-Kanäle
 * [Karate Culture](https://www.youtube.com/c/karateculture)
@@ -19,7 +19,7 @@ Weiteres
 
 ### Kobudo
 
-* [Kobudo-Kata-Videos](./KobudoKatas.md)
+* [Kobudo-Kata-Videos](./Kampfkunst/KobudoKatas.md)
 
 ### Aikido
 
@@ -43,12 +43,12 @@ Langform (108) Yang Stil
 
 ### Bücher
 
-* [Bücherliste Sachbücher](./Books.md)
-* [Bücherliste Belleristik](./Belletristik.md)
+* [Bücherliste Sachbücher](./Wissen/Books.md)
+* [Bücherliste Belleristik](./Wissen/Belletristik.md)
 
 ### Podcasts
 
-* [Podcastliste](./Podcasts.md)
+* [Podcastliste](./Wissen/Podcasts.md)
 
 ### Faktenchecks
 
