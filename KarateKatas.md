@@ -85,8 +85,21 @@ Uechi Ryu Seisan
 
 * [Lange Graue Haare](https://www.youtube.com/watch?v=y5ut-dmu_cY)
 
+Sanseiryu/Sanseiru  
+
+* [Kiyohide (?)](https://www.youtube.com/watch?v=2vgoipt5Es0)
+* [Lange Graue Haare](https://www.youtube.com/watch?v=lHAe3dNf-oQ)
+
+Kanshiwa
+
+* [Charles Quimby](https://www.youtube.com/watch?v=-DknqqWbODk)
+
 # Gojo Ryu
 
 Suparimpei 
 
 * [Higaonna](https://www.youtube.com/watch?v=WCQhRJ3xWoQ)
+
+Tensho
+
+* [Higaonna](https://www.youtube.com/watch?v=UXXMGfoGBgM)
