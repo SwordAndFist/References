@@ -7,10 +7,10 @@
 | -                                         | *Freakonomics*                | Steven Levitt, Stephen Dubner | 2021 |
 | *Die Psychologie des Überzeugens*         | Influence                     | Robert Cialdini           | 2021 |
 | -                                         | *Superfreakonomics*           | Steven Levitt, Stephen Dubner | 2021 |
-| *Factfulness*                             | Factfulness                   | Hans Rosling              | 2021 |
-| *Schnelles Denken, Langsames Denken*      | Thinking, Fast and Slow       | Daniel Kahneman           | 2021 |
+| ⭐*Factfulness*                           | Factfulness                   | Hans Rosling              | 2021 |
+| ⭐*Schnelles Denken, Langsames Denken*    | Thinking, Fast and Slow       | Daniel Kahneman           | 2021 |
 | *Nudge*                                   | Nudge                         | Richard Thaler, Cass Sunstein | 2021 |
-| *Eine kurze Geschichte der Menschheit*    | ?                             | Yuval Noah Harari         | 2021 |
+| ⭐*Eine kurze Geschichte der Menschheit*  | ?                             | Yuval Noah Harari         | 2021 |
 | *Die 1% Methode*                          | Atomic Habits                 | James Clear               | 2021 |
 | *Antifragilität*                          | Antifragile                   | Nassim Nicholas Taleb     | 2021 |
 | *Menschliche Kommunikation*               | ?                             | Paul Watzlawick           | 2021 |
@@ -41,5 +41,5 @@
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Die Macht der Geographie | The Power of Geography | Tim Marshall |
+| Die Macht der Geographie          | The Power of Geography | Tim Marshall |
 | Die Machiavellis der Wissenschaft | Merchants of Doubt | Naomi Oreskes |
