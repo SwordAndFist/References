@@ -34,12 +34,14 @@
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Die Machiavellis der Wissenschaft | Merchants of Doubt | Naomi Oreskes |
+| Die Machiavellis der Wissenschaft | *Merchants of Doubt* | Naomi Oreskes |
+| *Die Macht der Geographie*          | The Power of Geography | Tim Marshall |
 
 ## Backlog
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Die Macht der Geographie          | The Power of Geography | Tim Marshall |
+| -          | The Chaos Machine | Max Fisher |
+| Fake Fakts | - | Katharina Nocun, Pia Lamberty |
 

@@ -17,7 +17,8 @@
 | Hohle Köpfe                           | Feet of Clay      | Terry Pratchett | 2022 |
 | Schweinsgalopp                        | Hogfather         | Terry Pratchett | 2022 |
 | Fliegende Fetzen                      | Jingo             | Terry Pratchett | 2022 |
-
+| Heiße Hüpfer                          | The Last Continent | Terry Pratchett | 2022 |
+| Ruhig Blut!                           | Carpe Jugulum     | Terry Pratchett | 2022 |
 
 
 ## Am Lesen
@@ -25,11 +26,11 @@
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Heiße Hüpfer | The Last Continent | Terry Pratchett |
+| tbd | tbd | tbd |
 
 ## Backlog
 
 
 | Titel |
 | --- |
-| tbd |
+| Der fünfte Elefant |
