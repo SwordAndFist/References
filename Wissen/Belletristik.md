@@ -19,7 +19,8 @@
 | Fliegende Fetzen                      | Jingo             | Terry Pratchett | 2022 |
 | Heiße Hüpfer                          | The Last Continent | Terry Pratchett | 2022 |
 | Ruhig Blut!                           | Carpe Jugulum     | Terry Pratchett | 2022 |
-
+| Der fünfte Elefant | ? | Terry Pratchett | 2023 |
+| Die volle Wahrheit | ? | Terry Pratchett | 2023 |
 
 ## Am Lesen
 
@@ -33,4 +34,3 @@
 
 | Titel |
 | --- |
-| Der fünfte Elefant |

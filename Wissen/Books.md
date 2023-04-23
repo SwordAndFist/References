@@ -28,6 +28,9 @@
 | Das trügerische Gedächtnis                | *The Memory Illusion*         | Julia Shaw                | 2022 |
 | *Die Kunst, sich nicht ablenken zu lassen* | Indistractible               | Nir Eyal, Julie Li        | 2022 |
 | *Wo gute Ideen herkommen*                 | Where Good Ideas Come From    | Steven Johnson            | 2022 |
+| *Die Macht der Geographie*                | The Power of Geography        | Tim Marshall              | 2022 |
+| *Fake Fakts*                              | -                             | Katharina Nocun, Pia Lamberty | 2023 |
+| *Narren des Zufalls* | tbd | Nassim Nicholas Taleb | 2023 |
 
 ## Am Lesen
 
@@ -35,7 +38,7 @@
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
 | Die Machiavellis der Wissenschaft | *Merchants of Doubt* | Naomi Oreskes |
-| *Die Macht der Geographie*          | The Power of Geography | Tim Marshall |
+
 
 ## Backlog
 
@@ -43,5 +46,5 @@
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
 | -          | The Chaos Machine | Max Fisher |
-| Fake Fakts | - | Katharina Nocun, Pia Lamberty |
+
 
