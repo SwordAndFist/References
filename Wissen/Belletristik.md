@@ -21,13 +21,14 @@
 | Ruhig Blut!                           | Carpe Jugulum     | Terry Pratchett | 2022 |
 | Der fünfte Elefant | ? | Terry Pratchett | 2023 |
 | Die volle Wahrheit | ? | Terry Pratchett | 2023 |
+| Der Zeitdieb | ? | Terry Pratchett | 2023 |
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| tbd | tbd | tbd |
+| Der Schwarm | tbd | tbd |
 
 ## Backlog
 

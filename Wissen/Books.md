@@ -31,13 +31,15 @@
 | *Die Macht der Geographie*                | The Power of Geography        | Tim Marshall              | 2022 |
 | *Fake Fakts*                              | -                             | Katharina Nocun, Pia Lamberty | 2023 |
 | *Narren des Zufalls* | tbd | Nassim Nicholas Taleb | 2023 |
+| *Werde ein geschmeidiger Leopard* | tbd | Kelly Starrett, Glen Cordoza | 2023 
+| *Overcoming Gravity* | tbd | Steven Low | 2023 ||
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Die Machiavellis der Wissenschaft | *Merchants of Doubt* | Naomi Oreskes |
+| *Bauchentscheidungen* | tbd | Gerd Gigerenzer |
 
 
 ## Backlog
@@ -45,6 +47,7 @@
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
+| Die Machiavellis der Wissenschaft | *Merchants of Doubt* | Naomi Oreskes |
 | -          | The Chaos Machine | Max Fisher |
 
 

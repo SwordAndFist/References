@@ -42,6 +42,7 @@ Kushanku
 Chinto
 
 * [Zenshun Shimabukuro - Seibukan](https://www.youtube.com/watch?v=GLOFuz-UKls&t=25s)
+* [Zenshun Shimabukuro - Seibukan](https://www.youtube.com/watch?v=LosxDqL1oJk)
 
 Wanchin
 
