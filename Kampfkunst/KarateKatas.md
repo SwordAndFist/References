@@ -48,6 +48,7 @@ Wanchin
 
 * [Zenpo Shimabukuro - Seibukan](https://www.youtube.com/watch?v=uBz9w6LOcu0)
 * [Lehrgang Kelheim 2015 - Seibukan](https://www.youtube.com/watch?v=2Eq34cr5y34&t=15s)
+* [Zenpo Shimabukuro - Seibukan](https://www.youtube.com/watch?v=6EdcgW-Q_E4)
 
 ## Pinan
 

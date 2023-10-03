@@ -23,7 +23,9 @@ Weiteres
 
 ### Aikido
 
-tbd
+* [Yoshinkan DVD 1](https://www.youtube.com/watch?v=yDV9vIuvVeY)
+* [Yoshinkan DVD 2](https://www.youtube.com/watch?v=bSjbxyeOwvc)
+* [Yoshinkan DVD 3](https://www.youtube.com/watch?v=Xpfx0qvUuXM)
 
 ### Kung-Fu
 
