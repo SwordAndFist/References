@@ -28,3 +28,14 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      - name: commit changes
+        run: |
+          echo test >> testfile.txt
+          # Make changes to the repository
+          # For example, to stage all changes and commit
+          git add -A
+          git commit -m "Your commit message"
+          # To push the changes to the remote repository
+          git push
+          
