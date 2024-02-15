@@ -32,7 +32,7 @@ jobs:
           git add -A
           git commit -m "Your commit message"
           # To push the changes to the remote repository
-          # git config --global credential.helper '!f() { sleep 1; echo "username=SwordAndFist token=${{secrets.MYTOKEN}}"; }; f'
-          git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
+          git config --global credential.helper '!f() { sleep 1; echo "username=SwordAndFist token=${{secrets.MYTOKEN}}"; }; f'
+          # git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
           git push
           
