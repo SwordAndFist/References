@@ -21,11 +21,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: echo Hello, world! >> testfile.txt
 
       - name: commit changes
         run: |
-          echo test >> testfile.txt
           git config user.email "you@example.com"
           git config user.name "Your Name"
           # For example, to stage all changes and commit
@@ -35,4 +34,12 @@ jobs:
           git config --global credential.helper '!f() { sleep 1; echo "username=SwordAndFist token=${{secrets.MYTOKEN}}"; }; f'
           # git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
           git push
-          
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Your Name
+          author_email: mail@example.com
+          message: 'Your commit message'
+          add: 'testfile.txt'
+        env:
+          GITHUB_TOKEN: ${{ secrets.MYTOKEN }}
