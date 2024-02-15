@@ -23,17 +23,17 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world! >> testfile.txt
 
-      - name: commit changes
-        run: |
-          git config user.email "you@example.com"
-          git config user.name "Your Name"
-          # For example, to stage all changes and commit
-          git add -A
-          git commit -m "Your commit message"
-          # To push the changes to the remote repository
-          git config --global credential.helper '!f() { sleep 1; echo "username=SwordAndFist token=${{secrets.MYTOKEN}}"; }; f'
-          # git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
-          git push
+     # - name: commit changes
+     #   run: |
+     #     git config user.email "you@example.com"
+     #     git config user.name "Your Name"
+     #     # For example, to stage all changes and commit
+     #     git add -A
+     #     git commit -m "Your commit message"
+     #     # To push the changes to the remote repository
+     #     git config --global credential.helper '!f() { sleep 1; echo "username=SwordAndFist token=${{secrets.MYTOKEN}}"; }; f'
+     #     # git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
+     #     git push
 
       - uses: EndBug/add-and-commit@v9
         with:
