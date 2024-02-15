@@ -35,11 +35,18 @@ jobs:
      #     # git remote set-url origin https://SwordAndFist:${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
      #     git push
 
-      - uses: EndBug/add-and-commit@v9
+     # - uses: EndBug/add-and-commit@v9
+     #   with:
+     #     author_name: Your Name
+     #     author_email: mail@example.com
+     #     message: 'Your commit message'
+     #     add: 'testfile.txt'
+     #   env:
+     #     GITHUB_TOKEN: ${{ secrets.MYTOKEN }}
+
+      - name: Push to protected branch
+        uses: CasperWA/push-protected@v2
         with:
-          author_name: Your Name
-          author_email: mail@example.com
-          message: 'Your commit message'
-          add: 'testfile.txt'
-        env:
-          GITHUB_TOKEN: ${{ secrets.MYTOKEN }}
+          token: ${{ secrets.MYTOKEN }}
+          branch: feature/action-test
+          unprotect_reviews: true
