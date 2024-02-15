@@ -38,6 +38,6 @@ jobs:
           git add -A
           git commit -m "Your commit message"
           # To push the changes to the remote repository
-          git remote set-url origin https://${{secrets.MYTOKEN}}github.com/SwordAndFist/References.git
+          git remote set-url origin https://${{secrets.MYTOKEN}}@github.com/SwordAndFist/References.git
           git push
           
