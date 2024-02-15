@@ -21,7 +21,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, world! >> testfile.txt
+        run: |
+          echo Hello, world! >> testfile.txt
+          git add -A
+          git commit -m "Your commit message"
 
      # - name: commit changes
      #   run: |
