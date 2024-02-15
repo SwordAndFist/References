@@ -30,16 +30,20 @@
 | *Wo gute Ideen herkommen*                 | Where Good Ideas Come From    | Steven Johnson            | 2022 |
 | *Die Macht der Geographie*                | The Power of Geography        | Tim Marshall              | 2022 |
 | *Fake Fakts*                              | -                             | Katharina Nocun, Pia Lamberty | 2023 |
-| *Narren des Zufalls* | tbd | Nassim Nicholas Taleb | 2023 |
-| *Werde ein geschmeidiger Leopard* | tbd | Kelly Starrett, Glen Cordoza | 2023 
-| *Overcoming Gravity* | tbd | Steven Low | 2023 ||
+| *Narren des Zufalls*                      | tbd | Nassim Nicholas Taleb | 2023 |
+| *Werde ein geschmeidiger Leopard*         | tbd | Kelly Starrett, Glen Cordoza | 2023 |
+| *Overcoming Gravity*                      | tbd | Steven Low | 2023 |
+| *Bauchentscheidungen*                     | tbd | Gerd Gigerenzer | 2023 |
+| *Noise*                                   | Noise | Daniel Kahnemann | 2023 |
+| *Warum dick nicht doof macht und Genmais* | tbd | Thomas Bauer | 2023 |
+| *So lügt man mit Statistik*               | tbd | Walter Krämer | 2023 |
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| *Bauchentscheidungen* | tbd | Gerd Gigerenzer |
+
 
 
 ## Backlog

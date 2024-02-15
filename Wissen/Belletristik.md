@@ -22,13 +22,17 @@
 | Der fünfte Elefant | ? | Terry Pratchett | 2023 |
 | Die volle Wahrheit | ? | Terry Pratchett | 2023 |
 | Der Zeitdieb | ? | Terry Pratchett | 2023 |
+| Der Schwarm | tbd | tbd | 2023 |
+| Wahre Helden | ? | Terry Pratchett | 2023 |
+| Die Nachtwächter | ? | Terry Pratchett | 2023 |
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Der Schwarm | tbd | tbd |
+| Weiberregiment | ? | Terry Pratchett | 2023 |
+
 
 ## Backlog
 
