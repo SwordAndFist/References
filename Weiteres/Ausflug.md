@@ -29,3 +29,8 @@
 * https://www.therme-erding.de/
 * https://www.therme-erding.de/fileadmin/userdaten/user_upload/00_Startseite/TECD_LagePlan_Layout_Homepage_Stand_12-2023_klein.pdf
 * https://www.therme-erding.de/infos/preise-oeffnungszeiten/
+
+# Prag
+
+* https://www.laenderbahn.com/alex/tickets/prag-spezial-ticket/
+* https://www.laenderbahn.com/alex/freizeit-tipps/citytouren/citytouren-prag/
