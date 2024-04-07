@@ -96,6 +96,14 @@
 * https://www.lastminute.de/s/hdp/search?datefrom=2024-04-02&dateto=2024-04-04&search_mode=HO&sort=recommended&destination=150530&adults=1&source=csw&bf_subsource=S01HPV10S10RR01&businessProfileId=HOLIDAYSLASTMINUTEDE_PROMO&search_id=bv0jt8h8dfd9nzd9ij&vc_searchId=334319904&price=22,200&map_area=MAPSEARCH,50.10614824164253,14.384093328418345,50.05431911989476,14.472241445483803
 * https://www.trivago.de/de/lm/hotels-prag-tschechische-republik?search=200-23442;dr-20240402-20240404;pr-0-20000;rc-1-1;tp-true 
 
+### Optionen
+
+| Name | Code | Preis 04/24 m/o FS | Google | LastMinute |
+| --- | --- | --- | --- | --- |
+| [Hotel Harmony](https://www.hotelharmony.cz/de/zimmer/ ) | AVEHOTELS | 56/61 | 3.8 | 86 |
+| [Hotel Rokoko](https://www.hotelrokoko.cz/de/) | EALOYALTY | 57/72 | 4.2 | 83 |
+| [Hotel Embassy](https://www.hotelembassyprague.cz/de/) | EALOYALTY | 57/66 | 4.3 | 86 |
+
 ## PoI
 
 * Sehenswürdigkeiten
