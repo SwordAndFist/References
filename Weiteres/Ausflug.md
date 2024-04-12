@@ -71,6 +71,8 @@
 # Prag
 
 ## Reise
+
+### Bahn
 * https://www.laenderbahn.com/alex/tickets/prag-spezial-ticket/
 * https://www.laenderbahn.com/alex/freizeit-tipps/citytouren/citytouren-prag/
 * Rgb --> Prag (ALX RE25)
@@ -90,6 +92,17 @@
 | Regensburg Wöhrd | 50' | 26' | 8:17 | 7:01 | n/a |
 | Regensburg OTH O | 50' | 26' | 8:17 | 7:01 | n/a |
 | Regensburg OTH W | 45' | 29' | 8:17 | 7:03 | n/a |
+
+### Flixbus
+* https://www.flixbus.de/
+* Rgb --> Prag
+    * Abfahrten 2:20, 5:50, 6:50, 8:50, 17:20, 19:00, 23:40
+    --> 8:50 - 12:10
+    * Reisezeit ca. 3h30'
+* Prag --> Rgb
+    * Abfahrten 2:30, 7:30, 9:20, 17:15, 20:15, 23:50
+    --> 17:15 - 20:35
+    * Reisezeit ca. 3h30'
 
 ## Hotels
 

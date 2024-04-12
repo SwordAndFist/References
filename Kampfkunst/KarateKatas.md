@@ -24,6 +24,7 @@ Seisan
 Wanshu
 
 * [Seibukan](https://www.youtube.com/watch?v=Q0BPNjJ_iHM&start=275&end=320)
+* [Zenpo Shimabukuro - Seibukan](https://www.youtube.com/watch?v=E0F5lnffDwY)
 
 Passai
 
@@ -32,6 +33,7 @@ Passai
 Gojushiho
 
 * [Seibukan](https://www.youtube.com/watch?v=Q0BPNjJ_iHM&start=175&end=260)
+* [Zenpo Shimabukuro - Seibukan](https://www.youtube.com/watch?v=WahMHIzQV5I)
 
 Kushanku
 
