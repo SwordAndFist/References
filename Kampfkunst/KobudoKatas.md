@@ -43,3 +43,10 @@ Tunqua Dai Ichi
 
 * [Daniel Pyatt - Matayoshi Kobudo](https://www.youtube.com/watch?v=SH1b8f2Ca8o)
 * [? - Shotokan Karate](https://www.youtube.com/watch?v=FYuKKwsRpAc&t=35s)
+
+# Eku
+
+* https://www.youtube.com/watch?v=CimkzSTZNe4
+* https://www.youtube.com/watch?v=nZQQIGha51k
+* https://www.youtube.com/watch?v=58lg1JXb67A
+

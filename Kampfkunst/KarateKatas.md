@@ -108,3 +108,9 @@ Tensho
 
 * [Higaonna](https://www.youtube.com/watch?v=UXXMGfoGBgM)
 * [Higaonna](https://www.youtube.com/watch?v=F6h9NxIamxQ)
+
+Sepai/Seipai
+
+* [Yagi Akihito](https://www.youtube.com/watch?v=C2gx7vLlO6I)
+* [Meitoku Yagi](https://www.youtube.com/watch?v=CJWTlDhkST8)
+* [Kuro Obi](https://www.youtube.com/watch?v=dYUxr4Qaq3Q&t=39s)
