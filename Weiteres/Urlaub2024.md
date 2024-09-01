@@ -99,6 +99,37 @@ https://www.karwendel.org/
 </ul>
 </details>
 
+## Anreise von Nürnberg
+
+### Kinding
+
+|Tag	|Ziel	|Linie	|Abfahrt	|Ankunft	|Zeit|
+| --- | --- | --- | --- |--- |--- |
+|Samstag	|Kinding    |RE1	|07:06	|07:35	|00:29|
+|Samstag	|Kinding    |RE1	|09:07	|09:36	|00:29|
+|Samstag	|Kinding    |RE1	|11:07	|11:36	|00:29|
+|Samstag	|Kinding    |RE1	|13:07	|13:36	|00:29|
+|Samstag	|Kinding	|RE1	|15:07	|15:36	|00:29|
+|Samstag	|Kinding	|RE1	|17:11	|17:39	|00:28|
+|Samstag	|Kinding	|RE1	|19:07	|19:38	|00:31|
+|Samstag	|Kinding	|RE1	|21:07	|21:37	|00:30|
+|Samstag	|Kinding	|RE1	|23:37	|00:05	|00:28|
+
+### Parsberg
+
+|Tag	|Ziel	|Linie	|Abfahrt	|Ankunft	|Zeit|
+| --- | --- | --- | --- |--- |--- |
+|Samstag	|Parsberg	|RE50	|07:10	|07:47	|00:37|
+|Samstag	|Parsberg	|RE50	|09:11	|09:48	|00:37|
+|Samstag	|Parsberg	|RE50	|11:11	|11:48	|00:37|
+|Samstag	|Parsberg	|RE50	|13:11	|13:48	|00:37|
+|Samstag	|Parsberg	|RE50	|15:11	|15:48	|00:37|
+|Samstag	|Parsberg	|RE50	|17:07	|17:47	|00:40|
+|Samstag	|Parsberg	|RE50	|18:11	|18:47	|00:36|
+|Samstag	|Parsberg	|RE50	|19:11	|19:47	|00:36|
+|Samstag	|Parsberg	|RE50	|21:11	|21:48	|00:37|
+|Samstag	|Parsberg	|RE50	|23:16	|23:53	|00:37|
+
 ## Städte
 
 - Österreich 
