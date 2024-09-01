@@ -4,13 +4,33 @@
 
 | Ziel | Auto (T) | Zug | Kommentar |
 | --- | --- | --- | --- |
+| Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE |
+| Bayerischer Wald | ca. 2h10' | | DE |
 | Lechtal | ca. 3h30' | | AT |
 | Kleinwalstertal | ca. 3h30' | | AT |
 | Bozen | ca. 4h45' | <4h (ab München) | IT, Startpunkt für Rosengarten | 
 | Fassatal | ca. 5h20' | | IT, Beispiel für Rosengarten |
 | Gardasee | ca. 7h | 5h25' (ab München) | IT |
-| Bayerischer Wald | ca. 2h10' | | DE |
-| Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE |
+
+### Fränkische Schweiz
+
+https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
+
+<details>
+<summary>Touristik</summary>
+<ul>
+<li>https://www.fraenkische-schweiz.com/</li>
+</ul>
+</details>
+
+### Bayerischer Wald
+
+<details>
+<summary>Touristik</summary>
+<ul>
+<li>https://www.bayerischer-wald.de/</li>
+</ul>
+</details>
 
 ### Lechtal
 
@@ -41,26 +61,6 @@
 <li>https://www.tiersertal.com/de.html</li>
 <li>https://www.suedtirol.info/de/de</li>
 <li>https://www.visittrentino.info/de</li>
-</ul>
-</details>
-
-### Bayerischer Wald
-
-<details>
-<summary>Touristik</summary>
-<ul>
-<li>https://www.bayerischer-wald.de/</li>
-</ul>
-</details>
-
-### Fränkische Schweiz
-
-https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
-
-<details>
-<summary>Touristik</summary>
-<ul>
-<li>https://www.fraenkische-schweiz.com/</li>
 </ul>
 </details>
 
