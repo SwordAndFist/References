@@ -2,17 +2,23 @@
 
 ## Ziele Bergwandern
 
-| Ziel | Auto (T) | Zug | Kommentar |
-| --- | --- | --- | --- |
-| Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE |
-| Bayerischer Wald | ca. 2h10' | | DE |
-| Lechtal | ca. 3h30' | | AT |
-| Kleinwalstertal | ca. 3h30' | | AT |
-| Bozen | ca. 4h45' | <4h (ab München) | IT, Startpunkt für Rosengarten | 
-| Fassatal | ca. 5h20' | | IT, Beispiel für Rosengarten |
-| Gardasee | ca. 7h | 5h25' (ab München) | IT |
+| Ziel | Auto (T) | Zug | Land | Kommentar |
+| --- | --- | --- | --- | --- |
+| Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE | |
+| Bayerischer Wald | ca. 2h10' | | DE | |
+| Lechtal | ca. 3h30' | | AT | |
+| Kleinwalstertal | ca. 3h30' | | AT | |
+| Ötztal | ca. 4h (Maut?) | | AT | |
+| Zillertal | ca. 3h | | AT | |
+| Karwendelgebirge | ca. 3h | | AT | |
+| Kitzbüheler Alpen | ca. 3h10' | | AT | |
+| Bozen | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
+| Fassatal | ca. 5h20' | | IT | Beispiel für Rosengarten |
+| Gardasee | ca. 7h | 5h25' (ab München) | IT | |
 
-### Fränkische Schweiz
+### Deutschland 
+
+#### Fränkische Schweiz
 
 https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 
@@ -23,7 +29,7 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Bayerischer Wald
+#### Bayerischer Wald
 
 <details>
 <summary>Touristik</summary>
@@ -32,7 +38,9 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Lechtal
+### Österreich
+
+#### Lechtal
 
 <details>
 <summary>Touristik</summary>
@@ -41,7 +49,7 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Kleinwalsertal
+#### Kleinwalsertal
 
 <details>
 <summary>Touristik</summary>
@@ -50,7 +58,24 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Rosengarten
+#### Ötztal
+
+https://www.oetztal.com/de/sommer.html
+https://www.naturpark-oetztal.at/
+
+#### Zillertal
+
+https://www.zillertal.at/
+
+#### Karwendelgebirge
+
+https://www.karwendel.org/
+
+#### Kitzbüheler Alpen
+
+### Italien
+
+#### Rosengarten
 
 <details>
 <summary>Touristik</summary>
@@ -64,7 +89,7 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Gardasee
+#### Gardasee
 
 <details>
 <summary>Touristik</summary>
