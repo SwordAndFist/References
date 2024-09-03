@@ -98,6 +98,32 @@ Wetter
 </ul>
 </details>
 
+<details>
+<summary>Touren</summary>
+<ul>
+<li>8:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=802546040#dmdtab=oax-tab1</li>
+<li>7h https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=23846208#dmdtab=oax-tab4</li>
+<li>8h https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=23344745</li>
+<li>6:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=802284709#dmdtab=oax-tab1</li>
+<li>7:00 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=802284612</li>
+<li></li>
+<li>9:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=7139202</li>
+<li>9:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=23839671#dmdtab=oax-tab1</li>
+<li>9:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=7139202#dmdtab=oax-tab4</li>
+<li>8h https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=19895321#dmdtab=oax-tab1</li>
+</ul>
+</details>
+
+<details>
+<summary>Plan B</summary>
+<ul>
+<li>http://www.freizeit-soelden.com/de/home.html</li>
+<li>https://www.aqua-dome.at/de/</li>
+<li></li>
+<li></li>
+</ul>
+</details>
+
 #### Zillertal
 
 Wetter
