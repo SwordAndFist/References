@@ -16,8 +16,8 @@
 | Fassatal | ca. 5h20' | | IT | Beispiel für Rosengarten |
 | Gardasee | ca. 7h | 5h25' (ab München) | IT | |
 
-### Deutschland 
 ---
+### Deutschland 
 
 #### Fränkische Schweiz
 
@@ -39,8 +39,8 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </ul>
 </details>
 
-### Österreich
 ---
+### Österreich
 
 #### Lechtal
 
@@ -116,8 +116,8 @@ Wetter
 
 #### Kitzbüheler Alpen
 
-### Italien
 ---
+### Italien
 
 #### Rosengarten
 
