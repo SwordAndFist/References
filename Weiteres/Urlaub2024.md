@@ -17,6 +17,7 @@
 | Gardasee | ca. 7h | 5h25' (ab München) | IT | |
 
 ### Deutschland 
+---
 
 #### Fränkische Schweiz
 
@@ -39,6 +40,7 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 </details>
 
 ### Österreich
+---
 
 #### Lechtal
 
@@ -101,7 +103,12 @@ Wetter
 Wetter
 * https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/mayrhofen/ATAT30364.html
 
-* https://www.zillertal.at/
+<details>
+<summary>Touristik</summary>
+<ul>
+<li>https://www.zillertal.at/</li>
+</ul>
+</details>
 
 #### Karwendelgebirge
 
@@ -110,6 +117,7 @@ Wetter
 #### Kitzbüheler Alpen
 
 ### Italien
+---
 
 #### Rosengarten
 
