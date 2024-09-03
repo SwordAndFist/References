@@ -5,13 +5,13 @@
 | Ziel | Auto (T) | Zug | Land | Kommentar |
 | --- | --- | --- | --- | --- |
 | Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE | |
-| Bayerischer Wald | ca. 2h10' | | DE | |
-| Lechtal | ca. 3h30' | | AT | |
-| Kleinwalstertal | ca. 3h30' | | AT | |
-| Ötztal | ca. 4h (Maut?) | | AT | |
-| Zillertal | ca. 3h | | AT | |
-| Karwendelgebirge | ca. 3h | | AT | |
-| Kitzbüheler Alpen | ca. 3h10' | | AT | |
+| [Bayerischer Wald](#bayerischer-wald) | ca. 2h10' | | DE | |
+| [Lechtal](#lechtal) ⭐ | ca. 3h30' | | AT | |
+| [Kleinwalstertal](#kleinwalsertal) | ca. 3h30' | | AT | |
+| [Ötztal](#ötztal) ⭐ | ca. 4h (Maut?) | | AT | |
+| [Zillertal](#zillertal) | ca. 3h | | AT | |
+| [Karwendelgebirge](#karwendelgebirge) | ca. 3h | | AT | |
+| [Kitzbüheler Alpen](#kitzbüheler-alpen) | ca. 3h10' | | AT | |
 | Bozen | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
 | Fassatal | ca. 5h20' | | IT | Beispiel für Rosengarten |
 | Gardasee | ca. 7h | 5h25' (ab München) | IT | |
@@ -42,10 +42,33 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 
 #### Lechtal
 
+Wetter
+* Steeg https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/steeg-lechtal/ATAT30643.html
+
 <details>
 <summary>Touristik</summary>
 <ul>
 <li>https://www.lechtal.at/</li>
+</ul>
+</details>
+
+<details>
+<summary>Touren</summary>
+<ul>
+<li>https://www.lechtal.at/de/touren/gramaiser-seen-runde.html</li>
+<li>https://www.lechtal.at/de/touren/hinterhornbach-hochvogel.html</li>
+<li>https://www.lechtal.at/de/touren/elmer-kreuzspitze.html</li>
+<li>https://www.lechtal.at/de/touren/hinterhornbach-kaufbeurer-haus-haglertal-haeselgehr.html</li>
+<li>https://www.lechtal.at/de/touren/holzgau-grosser-krottenkopf.html</li>
+<li>https://www.lechtal.at/de/touren/boden-fundaistal-hanauer-huette-boden.html</li>
+</ul>
+</details>
+
+<details>
+<summary>Hotels</summary>
+<ul>
+<li>https://vera-monti.at/</li>
+<li></li>
 </ul>
 </details>
 
@@ -60,16 +83,29 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 
 #### Ötztal
 
-https://www.oetztal.com/de/sommer.html
-https://www.naturpark-oetztal.at/
+Wetter
+* Übersicht https://www.wetter.com/europa/oetztal/TRSM00000208.html#ATAT30588
+* Ötz (N) https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/oetz/ATAT30448.html
+* Sölden https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/soelden/ATAT30588.html
+
+<details>
+<summary>Touristik</summary>
+<ul>
+<li>https://www.oetztal.com/de/sommer.html</li>
+<li>https://www.naturpark-oetztal.at/</li>
+</ul>
+</details>
 
 #### Zillertal
 
-https://www.zillertal.at/
+Wetter
+* https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/mayrhofen/ATAT30364.html
+
+* https://www.zillertal.at/
 
 #### Karwendelgebirge
 
-https://www.karwendel.org/
+* https://www.karwendel.org/
 
 #### Kitzbüheler Alpen
 
