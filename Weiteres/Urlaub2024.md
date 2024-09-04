@@ -94,6 +94,8 @@ Wetter
 * Bergfex
     * https://www.bergfex.at/soelden/wetter/prognose/
     * https://www.bergfex.at/tirol/langlaufen/obergurgl-hochgurgl/wetter/
+* Touristik
+    * https://www.oetztal.com/de/winter/live-info/wetter/wetter-heute.html
 
 <details>
 <summary>Touristik</summary>
