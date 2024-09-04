@@ -46,6 +46,7 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 
 Wetter
 * Steeg https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/steeg-lechtal/ATAT30643.html
+* https://www.bergfex.at/tirol/langlaufen/lechtal/wetter/
 
 <details>
 <summary>Touristik</summary>
@@ -86,9 +87,13 @@ Wetter
 #### Ötztal
 
 Wetter
-* Übersicht https://www.wetter.com/europa/oetztal/TRSM00000208.html#ATAT30588
-* Ötz (N) https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/oetz/ATAT30448.html
-* Sölden https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/soelden/ATAT30588.html
+* Wetter.com
+    * Übersicht https://www.wetter.com/europa/oetztal/TRSM00000208.html#ATAT30588
+    * Ötz (N) https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/oetz/ATAT30448.html
+    * Sölden https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/oesterreich/soelden/ATAT30588.html
+* Bergfex
+    * https://www.bergfex.at/soelden/wetter/prognose/
+    * https://www.bergfex.at/tirol/langlaufen/obergurgl-hochgurgl/wetter/
 
 <details>
 <summary>Touristik</summary>
