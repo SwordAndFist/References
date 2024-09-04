@@ -12,6 +12,7 @@
 | [Zillertal](#zillertal) | ca. 3h | | AT | |
 | [Karwendelgebirge](#karwendelgebirge) | ca. 3h | | AT | |
 | [Kitzbüheler Alpen](#kitzbüheler-alpen) | ca. 3h10' | | AT | |
+| Montafon | ... | | AT | |
 | Bozen | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
 | Fassatal | ca. 5h20' | | IT | Beispiel für Rosengarten |
 | Gardasee | ca. 7h | 5h25' (ab München) | IT | |
