@@ -98,6 +98,9 @@ Wetter
 * Touristik
     * https://www.oetztal.com/de/winter/live-info/wetter/wetter-heute.html
 
+Weiteres
+* Öffis https://www.oetztal.com/de/sommer/region-oetztal-orte/anreise-oetztal/mit-dem-bus.html 
+
 <details>
 <summary>Touristik</summary>
 <ul>
@@ -107,7 +110,17 @@ Wetter
 </details>
 
 <details>
-<summary>Touren</summary>
+<summary>Plan B</summary>
+<ul>
+<li>http://www.freizeit-soelden.com/de/home.html</li>
+<li>https://www.aqua-dome.at/de/</li>
+</ul>
+</details>
+
+##### Touren
+https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen.html 
+<details>
+<summary>Große Touren</summary>
 <ul>
 <li>8:30 https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=802546040#dmdtab=oax-tab1</li>
 <li>7h https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=23846208#dmdtab=oax-tab4</li>
@@ -123,14 +136,17 @@ Wetter
 </details>
 
 <details>
-<summary>Plan B</summary>
+<summary>Kleine Touren</summary>
 <ul>
-<li>http://www.freizeit-soelden.com/de/home.html</li>
-<li>https://www.aqua-dome.at/de/</li>
-<li></li>
-<li></li>
+<li>5h M https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=23840401</li>
+<li>4h L https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=6936232</li>
+<li>3h M https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=19877244</li>
+<li>5h S https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=58035508</li>
+<li>3h M https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=19877353</li>
+<li>3:30h M https://www.oetztal.com/de/sommer/wandern-bergsteigen/wanderrouten/wanderrouten-routen/wanderrouten-detail.html?tourId=19877075</li>
 </ul>
 </details>
+
 
 #### Zillertal
 
