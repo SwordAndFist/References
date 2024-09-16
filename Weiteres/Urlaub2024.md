@@ -4,18 +4,19 @@
 
 | Ziel | Auto (T) | Zug | Land | Kommentar |
 | --- | --- | --- | --- | --- |
-| Fränkische Schweiz | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE | |
+| [Fränkische Schweiz](#fränkische-schweiz) | ca. 1h (ab Nbg) | ca. 2h (ab Nürnberg) | DE | |
 | [Bayerischer Wald](#bayerischer-wald) | ca. 2h10' | | DE | |
+| [Ammergauer Alpen](#ammergauer-alpen) | ca. 3h | | DE | |
 | [Lechtal](#lechtal) ⭐ | ca. 3h30' | | AT | |
 | [Kleinwalstertal](#kleinwalsertal) | ca. 3h30' | | AT | |
-| [Ötztal](#ötztal) ⭐ | ca. 4h (Maut?) | | AT | |
+| [Ötztal](#ötztal) ✔ | ca. 4h (Maut?) | | AT | |
 | [Zillertal](#zillertal) | ca. 3h | | AT | |
 | [Karwendelgebirge](#karwendelgebirge) | ca. 3h | | AT | |
 | [Kitzbüheler Alpen](#kitzbüheler-alpen) | ca. 3h10' | | AT | |
-| Montafon | ... | | AT | |
-| Bozen | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
-| Fassatal | ca. 5h20' | | IT | Beispiel für Rosengarten |
-| Gardasee | ca. 7h | 5h25' (ab München) | IT | |
+| [Montafon](#montafon) | ... | | AT | |
+| Bozen ✔ | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
+| Fassatal ✔ | ca. 5h20' | | IT | Beispiel für Rosengarten |
+| [Gardasee](#gardasee) | ca. 7h | 5h25' (ab München) | IT | |
 
 ---
 ### Deutschland 
@@ -39,6 +40,16 @@ https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Schweiz
 <li>https://www.bayerischer-wald.de/</li>
 </ul>
 </details>
+
+#### Ammergauer Alpen
+
+<details>
+<summary>Touristik</summary>
+<ul>
+<li>https://www.ammergauer-alpen.de/</li>
+</ul>
+</details>
+
 
 ---
 ### Österreich
@@ -166,6 +177,12 @@ Wetter
 
 #### Kitzbüheler Alpen
 
+tbd
+
+#### Montafon
+
+tbd
+
 ---
 ### Italien
 
@@ -193,6 +210,7 @@ Wetter
 </ul>
 </details>
 
+---
 ## Anreise von Nürnberg
 
 ### Kinding
