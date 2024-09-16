@@ -6,6 +6,7 @@
 * [ ] Ramen
 * [ ] Tex-Mex
 * [ ] Kuchen backen
+* [ ] Minestrone
 
 ## Ausflüge
 
@@ -14,4 +15,6 @@
 * Weltenburg
     * https://www.kloster-weltenburg.de/
 * https://www.fuerthermare.de/
+* Wandern: Fränkische Schweiz
+* Wandern: Bayerischer Wald
 
