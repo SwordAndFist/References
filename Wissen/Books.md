@@ -37,12 +37,22 @@
 | *Noise*                                   | Noise | Daniel Kahnemann | 2023 |
 | *Warum dick nicht doof macht und Genmais* | tbd | Thomas Bauer | 2023 |
 | *So lügt man mit Statistik*               | tbd | Walter Krämer | 2023 |
+| *Das Risiko und sein Preis – Skin in the Game* | ? | Nassim Nicholas Taleb | 2023 |
+| *12 Gesetze der Dummheit* | ? | Beck, Henning | 2023 |
+| *HIIT - Die Anatomie verstehen* | ? | Clay, Ingrid S. | 2023 |
+| *Hooked* | Hooked | Nir Eyal | 2024 |
+| *Risiko* | ? | Gerd Gigerenzer | 2024 |
+| *Clean Architecture* | Clean Architecture | ? | 2024 |
+| *Trail Guide - Bewegung und Biomechanik* | ? | Andrew Biel | 2024 |
+| *How Not to Diet* | How not to Diet | Michael Greger | 2024 |
+| *Das Kind in dir muss Heimat finden* | ? | Stefanie Stahl | 2024 |
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
+| Das trügerische Gedächtnis | - | Shaw, Julia |
 
 
 
