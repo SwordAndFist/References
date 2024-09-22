@@ -7,6 +7,7 @@
 * [ ] Tex-Mex
 * [ ] Kuchen backen
 * [ ] Minestrone
+    * https://fitaliancook.com/italienische-minestrone-rezept/
 
 ## Ausflüge
 
