@@ -16,6 +16,11 @@
 * Weltenburg
     * https://www.kloster-weltenburg.de/
 * https://www.fuerthermare.de/
-* Wandern: Fränkische Schweiz
-* Wandern: Bayerischer Wald
+* Wandern
+    * Fränkische Schweiz
+    * Bayerischer Wald
+    * Wacholderwanderweg
+        * https://www.t-online.de/region/nuernberg/id_100383822/wacholderwanderweg-bayern-bietet-toskana-feeling-nahe-nuernberg.html
+    * Altmühltal
+        * https://www.naturpark-altmuehltal.de/wandern/rundwanderwege/karte/#map-list
 
