@@ -3,7 +3,8 @@
 ## Kochen
 
 * [x] Sushi
-* [ ] Ramen
+* [x] Ramen
+    * [ ] mit Dashi
 * [ ] Tex-Mex
 * [ ] Kuchen backen
 * [ ] Minestrone
@@ -27,8 +28,8 @@
     * Dokumentationszentrum 
     https://museen.nuernberg.de/dokuzentrum
         * Zur Zeit Bauarbeiten 
-    * Germanisches Nationalmuseum 
-        https://www.gnm.de/
+    * ~~Germanisches Nationalmuseum~~
+        * https://www.gnm.de/
     * Kaiserburg 
-        https://www.kaiserburg-nuernberg.de/index.htm 
+        * https://www.kaiserburg-nuernberg.de/index.htm 
 
