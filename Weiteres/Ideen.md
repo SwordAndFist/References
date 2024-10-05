@@ -19,6 +19,8 @@
 * https://www.fuerthermare.de/
 * Wandern
     * Fränkische Schweiz
+        * https://www.fraenkische-schweiz.com/erleben/aktiv/wandern/die-schoensten-wanderwege
+        * https://www.fraenkische-schweiz.com/maps/type=HikingTrail/topic=highlight?
     * Bayerischer Wald
     * Wacholderwanderweg
         * https://www.t-online.de/region/nuernberg/id_100383822/wacholderwanderweg-bayern-bietet-toskana-feeling-nahe-nuernberg.html
