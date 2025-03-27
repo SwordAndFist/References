@@ -14,7 +14,20 @@
 
 ## Ziele und Touren
 
+* X nach Chiemsee ca. 2h
+* Chiemsee nach Bad Reichenhall ca. 45'
+* Bad Reichenhall nach Königssee ca. 30'
+* Bad Reichenhall nach Salzburg ca. 30'
+
 ### Chiemsee
+
+* Schifffahrt
+  * https://www.chiemsee-schifffahrt.de/de/fahrplaene/winterfahrplan-ab-16092024
+  * https://www.chiemsee-schifffahrt.de/de/infos/parkplaetze-toiletten/
+  * https://www.chiemsee-schifffahrt.de/de/preise/preise-ab-112025
+* Schloss
+  * https://www.herrenchiemsee.de/
+  * https://www.herrenchiemsee.de/deutsch/tourist/oeffnung.htm
 
 ### Königssee
 
