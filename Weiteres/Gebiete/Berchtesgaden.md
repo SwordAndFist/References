@@ -62,6 +62,14 @@ https://www.parkopedia.de/parking/locations/bad_reichenhall_kreis_berchtesgadene
 
 > Preise je für 2 Personen inkl. Frühstück
 
+| Hotel  | Avalon  | Rundum | 
+|---|---| --- |
+| Fußweg Bahnhof  | 3'  | 16' |
+| Fußweg Feuerwehr  | n/a  | 11' |
+| Fußweg St. Zero  | 13'  | 19' |
+| Fußweg wechselseitig | 14' | 14' |
+
+
 * Last Minute
   * Ibis Styles ca. 108€/N
     * https://all.accor.com/hotel/B3X9/index.de.shtml
