@@ -17,6 +17,7 @@
 | Bozen ✔ | ca. 4h45' | <4h (ab München) | IT | Startpunkt für Rosengarten | 
 | Fassatal ✔ | ca. 5h20' | | IT | Beispiel für Rosengarten |
 | [Gardasee](#gardasee) | ca. 7h | 5h25' (ab München) | IT | |
+| Engtal | | | | |
 
 ---
 ### Deutschland 
@@ -182,6 +183,10 @@ tbd
 #### Montafon
 
 tbd
+
+#### Engtal
+ * Tipp von Jürgen Pieper
+ * https://www.ahornboden.com/umgebung/engtal/
 
 ---
 ### Italien
