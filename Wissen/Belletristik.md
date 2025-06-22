@@ -22,20 +22,28 @@
 | Der fünfte Elefant | ? | Terry Pratchett | 2023 |
 | Die volle Wahrheit | ? | Terry Pratchett | 2023 |
 | Der Zeitdieb | ? | Terry Pratchett | 2023 |
-| Der Schwarm | tbd | tbd | 2023 |
+| Der Schwarm | tbd | Schätzing, Frank | 2023 |
 | Wahre Helden | ? | Terry Pratchett | 2023 |
 | Die Nachtwächter | ? | Terry Pratchett | 2023 |
+| Weiberregiment | ? | Terry Pratchett | 2023 |
+| Ab die Post | ? | Terry Pratchett | ? |
+| Klonk! | ? | Terry Pratchett | ? |
+| Schöne Scheine | ? | Terry Pratchett | ? |
+| Der Club der unsichtbaren Gelehrten | ? | Terry Pratchett | ? |
+| Steife Prise | ? | Terry Pratchett | ? |
+| Die Lügen des Locke Lamora | ? | Scott Lynch | 2024 |
 
 ## Am Lesen
 
 
 | Titel (de) | Titel (en) | Autor |
 | --- | --- | --- |
-| Weiberregiment | ? | Terry Pratchett | 2023 |
+
 
 
 ## Backlog
 
 
-| Titel |
-| --- |
+| Titel (de) | Titel (en) | Autor |
+| --- | --- | --- |
+| Toller Dampf voraus | ? | Terry Pratchett |
