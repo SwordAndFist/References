@@ -24,8 +24,10 @@
 
 ### Bahnverbindung
 
-[Nürnberg Lübeck (Direkt)](https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=N%C3%BCrnberg%20Hbf&zo=L%C3%BCbeck%20Hbf&kl=2&r=13:16:KLASSENLOS:1&soid=A%3D1%40O%3DN%C3%BCrnberg%20Hbf%40X%3D11082989%40Y%3D49445615%40U%3D80%40L%3D8000284%40B%3D1%40p%3D1750104613%40i%3DU%C3%97008022193%40&zoid=A%3D1%40O%3DL%C3%BCbeck%20Hbf%40X%3D10669818%40Y%3D53867544%40U%3D80%40L%3D8000237%40B%3D1%40p%3D1749588501%40i%3DU%C3%97008001631%40&sot=ST&zot=ST&soei=8000284&zoei=8000237&hd=2025-08-03T19:39:21&hza=D&hz=%5B%5D&ar=false&s=true&d=true&vm=00,01,02,03,04,05,06,07,08,09&fm=false&bp=false&dlt=false&dltv=false)
-[Nürnberg Hamburg (Direkt)](https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=N%C3%BCrnberg%20Hbf&zo=Hamburg%20Hbf&kl=2&r=13:16:KLASSENLOS:1&soid=A%3D1%40O%3DN%C3%BCrnberg%20Hbf%40X%3D11082989%40Y%3D49445615%40U%3D80%40L%3D8000284%40B%3D1%40p%3D1750104613%40i%3DU%C3%97008022193%40&zoid=A%3D1%40O%3DHamburg%20Hbf%40X%3D10006909%40Y%3D53552733%40U%3D80%40L%3D8002549%40B%3D1%40p%3D1750894836%40i%3DU%C3%97008001071%40&sot=ST&zot=ST&soei=8000284&zoei=8002549&hd=2025-08-03T19:39:21&hza=D&hz=%5B%5D&ar=false&s=true&d=true&vm=00,01,02,03,04,05,06,07,08,09&fm=false&bp=false&dlt=false&dltv=false)
+* [Nürnberg Lübeck (Direkt)](https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=N%C3%BCrnberg%20Hbf&zo=L%C3%BCbeck%20Hbf&kl=2&r=13:16:KLASSENLOS:1&soid=A%3D1%40O%3DN%C3%BCrnberg%20Hbf%40X%3D11082989%40Y%3D49445615%40U%3D80%40L%3D8000284%40B%3D1%40p%3D1750104613%40i%3DU%C3%97008022193%40&zoid=A%3D1%40O%3DL%C3%BCbeck%20Hbf%40X%3D10669818%40Y%3D53867544%40U%3D80%40L%3D8000237%40B%3D1%40p%3D1749588501%40i%3DU%C3%97008001631%40&sot=ST&zot=ST&soei=8000284&zoei=8000237&hd=2025-08-03T19:39:21&hza=D&hz=%5B%5D&ar=false&s=true&d=true&vm=00,01,02,03,04,05,06,07,08,09&fm=false&bp=false&dlt=false&dltv=false)
+  * ab 50€ einfach
+* [Nürnberg Hamburg (Direkt)](https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=N%C3%BCrnberg%20Hbf&zo=Hamburg%20Hbf&kl=2&r=13:16:KLASSENLOS:1&soid=A%3D1%40O%3DN%C3%BCrnberg%20Hbf%40X%3D11082989%40Y%3D49445615%40U%3D80%40L%3D8000284%40B%3D1%40p%3D1750104613%40i%3DU%C3%97008022193%40&zoid=A%3D1%40O%3DHamburg%20Hbf%40X%3D10006909%40Y%3D53552733%40U%3D80%40L%3D8002549%40B%3D1%40p%3D1750894836%40i%3DU%C3%97008001071%40&sot=ST&zot=ST&soei=8000284&zoei=8002549&hd=2025-08-03T19:39:21&hza=D&hz=%5B%5D&ar=false&s=true&d=true&vm=00,01,02,03,04,05,06,07,08,09&fm=false&bp=false&dlt=false&dltv=false)
+  * Ab 40€ einfach; 70€ hin/rück
 
 ### Hotels
 
