@@ -24,12 +24,16 @@
 
 ### Hotels
 
+Link zur Suche
+[Booking.com](https://www.booking.com/searchresults.de.html?label=gen173nr-1BCAEoggI46AdIM1gEaDuIAQGYAQe4ARnIAQ_YAQHoAQGIAgGoAgO4ApbqhcMGwAIB0gIkMjgwMWE2YTAtZjc0Mi00YmRmLTkwYTMtOTkyN2Q5M2I5OTVj2AIF4AIB&sid=ff7aefba323bbd61a289d094ee3715e1&aid=304142&ss=Travem%C3%BCnde%2C+Schleswig-Holstein%2C+Deutschland&efdco=1&lang=de&src=index&dest_id=-1832925&dest_type=city&place_id=city%2F-1832925&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2906798bd2c30ac8&checkin=2025-08-04&checkout=2025-08-07&group_adults=2&no_rooms=1&group_children=0&flex_window=2&nflt=price%3DEUR-min-270-1%3Bmealplan%3D1%3Boos%3D1)
+
 * Travemünde
   * [Landhaus Bode](https://landhaus-bode.de/)
     * 190€+/N mF (220?)
   * [Maritim](https://www.maritim.de/de/hotels/deutschland/strandhotel-travemuende-ostsee/unser-hotel)
     * 265€/N mF; 341€/N HP
     * 4 Sterne; Kette
+    * 202€/N mF 03.-06.
   * [Strandschlösschen](https://www.hotel-strandschloesschen.de/)
     * 211€/N oF
 * Timmendorfer Strand
