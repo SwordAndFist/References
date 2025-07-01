@@ -34,6 +34,15 @@
 Link zur Suche
 [Booking.com](https://www.booking.com/searchresults.de.html?label=gen173nr-1BCAEoggI46AdIM1gEaDuIAQGYAQe4ARnIAQ_YAQHoAQGIAgGoAgO4ApbqhcMGwAIB0gIkMjgwMWE2YTAtZjc0Mi00YmRmLTkwYTMtOTkyN2Q5M2I5OTVj2AIF4AIB&sid=ff7aefba323bbd61a289d094ee3715e1&aid=304142&ss=Travem%C3%BCnde%2C+Schleswig-Holstein%2C+Deutschland&efdco=1&lang=de&src=index&dest_id=-1832925&dest_type=city&place_id=city%2F-1832925&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2906798bd2c30ac8&checkin=2025-08-04&checkout=2025-08-07&group_adults=2&no_rooms=1&group_children=0&flex_window=2&nflt=price%3DEUR-min-270-1%3Bmealplan%3D1%3Boos%3D1)
 
+
+| Hotel         | Ort             | 3-Nächte                        | Entf. Bahnhof | Kommentar                               | Links                                                                                                                                                                            |
+|---------------|-----------------|---------------------------------|---------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Landhaus Bode | Travemünde      | 567€ (Booking)                  | 240 m         | Möbel so mittel; günstig                | [HP](https://landhaus-bode.de/); [Booking](https://www.booking.com/hotel/de/landhaus-bode.de.html)                                                                                |
+| Maritim       | Travemünde      | 617€ (Booking, 03.-06.)         | 750 m         | 4-Sterne; teurer 😓                     | [HP](https://www.maritim.de/de/hotels/deutschland/strandhotel-travemuende-ostsee/unser-hotel); [Booking](https://www.booking.com/hotel/de/maritim-strandhotel-travemunde.de.html) |
+| Turmhotel     | Scharbeutz      | 567 (Booking)                   | ca. 1,2 km    | weit weg von Lübeck                     | [HP](https://www.turmhotel-scharbeutz.de/); [Booking](https://www.booking.com/hotel/de/turmhotel-scharbeutz.de.html)                                                              |
+| Hotel Sand    | Timmend. Strand | 590€ (03.-06.) / 480€ (06.-09.) | ca. 2,5 km    | Buchung über Homepage                   | [HP](https://www.hotelsand.de/); [Booking](https://www.booking.com/hotel/de/am-timmendorfer-hof.de.html)                                                                          |
+| The Oceans    | Timmend. Strand | 560€ (06.-09.)                  | ca. 3 km      | Preis via Homepage bei Anreise via Bahn | [HP](https://the-oceans.de/); [Booking](https://www.booking.com/hotel/de/timmendorfer-strand.de.html)                                                                             |
+
 * Travemünde
   * [Landhaus Bode](https://landhaus-bode.de/)
     * 190€+/N mF (220?)
