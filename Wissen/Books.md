@@ -49,11 +49,13 @@
 | ...                                            | ...                                      | ...                           | ...            |
 | *Das trügerische Gedächtnis*                   | The Memory Illusion                      | Julia Shaw                    | 2024           |
 | ...                                            | ...                                      | ...                           | ...            |
-| Aber meiner Tante hats geholfen                | ...                                      | ...                           | ...            |
-| Think Again                                    |                                          |                               |                |
-| Selbstbild                                     |                                          |                               |                |
-| Grüne fahren SUV                               | ...                                      | ...                           | ...            |
-| Alles Idioten                                  |                                          |                               |                |
+| Aber meiner Tante hats geholfen                | ...                                      | ...                           | 2025           |
+| Think Again                                    |                                          |                               | 2025           |
+| Selbstbild                                     |                                          |                               | 2025           |
+| Grüne fahren SUV                               | ...                                      | ...                           | 2025           |
+| Alles Idioten                                  |                                          |                               | 2025           |
+| Clean Code                                     |                                          |                               | 2025           |
+| Wie man das Eis bricht                         | ...                                      | ...                           | 2025           |
 
 ## Am Lesen
 

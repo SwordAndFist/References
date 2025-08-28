@@ -33,7 +33,9 @@
 | Steife Prise                        | ?                  | Terry Pratchett  | ?              |
 | Die Lügen des Locke Lamora          | ?                  | Scott Lynch      | 2024           |
 | ...                                 | ...                | ...              | ...            |
-| Locke 2                             | ...                | ...              | ...            |
+| Sturm über roten Wassern            | ...                | ...              | 2025           |
+| Die Republik der Diebe              | ...                | ...              | 2025           |
+| Ein gutes Omen                      | ...                | ...              | 2025           |
 
 ## Am Lesen
 
