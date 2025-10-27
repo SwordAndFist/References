@@ -32,10 +32,11 @@
 | Der Club der unsichtbaren Gelehrten | ?                  | Terry Pratchett  | ?              |
 | Steife Prise                        | ?                  | Terry Pratchett  | ?              |
 | Die Lügen des Locke Lamora          | ?                  | Scott Lynch      | 2024           |
-| ...                                 | ...                | ...              | ...            |
+| Toller Dampf voraus                 | ...                | Terry Pratchett  | ...            |
 | Sturm über roten Wassern            | ...                | ...              | 2025           |
 | Die Republik der Diebe              | ...                | ...              | 2025           |
 | Ein gutes Omen                      | ...                | ...              | 2025           |
+| Ein todsicherer Job                 | ...                | ...              | 2025           |
 
 ## Am Lesen
 

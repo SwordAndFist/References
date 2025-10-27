@@ -56,6 +56,9 @@
 | Alles Idioten                                  |                                          |                               | 2025           |
 | Clean Code                                     |                                          |                               | 2025           |
 | Wie man das Eis bricht                         | ...                                      | ...                           | 2025           |
+| Die Vermessung der Liebe                       | ...                                      | ...                           | 2025           |
+| Darm mit Charm                                 | ...                                      | ...                           | 2025           |
+| besser fühlen                                  | ...                                      | ...                           | 2025           |
 
 ## Am Lesen
 
