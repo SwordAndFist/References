@@ -49,6 +49,6 @@
 ## Backlog
 
 
-| Titel (de)          | Titel (en) | Autor           |
-|---------------------|------------|-----------------|
-| Toller Dampf voraus | ?          | Terry Pratchett |
+| Titel (de) | Titel (en) | Autor |
+|------------|------------|-------|
+| -          | -          | -     |

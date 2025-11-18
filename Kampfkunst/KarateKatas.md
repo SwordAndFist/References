@@ -1,10 +1,6 @@
 # Inhalt
-1. [Shorin Ryu](#shorin-ryu)
-    1. [Pinan](#pinan)
-    2. [Naihanchi](#naihanchi)
-2. [Uechi Ryu](#uechi-ryu)
-3. [Gojo Ryu](#gojo-ryu)
 
+[toc]
 
 # Shorin Ryu
 
@@ -91,7 +87,7 @@ Uechi Ryu Seisan
 
 Sanseiryu/Sanseiru  
 
-* [Kiyohide (?)](https://www.youtube.com/watch?v=2vgoipt5Es0)
+* [Kiyohide](https://www.youtube.com/watch?v=2vgoipt5Es0)
 * [Lange Graue Haare](https://www.youtube.com/watch?v=lHAe3dNf-oQ)
 
 Kanshiwa

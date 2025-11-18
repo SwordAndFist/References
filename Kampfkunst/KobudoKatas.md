@@ -1,8 +1,6 @@
 # Inhalt
 
-1. [Bo](#bo)
-2. [Sai](#sai)
-3. [Tonfa](#tonfa)
+[toc]
 
 # Bo
 Fukyu Kata
@@ -50,3 +48,9 @@ Tunqua Dai Ichi
 * https://www.youtube.com/watch?v=nZQQIGha51k
 * https://www.youtube.com/watch?v=58lg1JXb67A
 
+# Jo
+
+31 Jo Kata
+
+* https://www.youtube.com/watch?v=VRpNHsprHEc
+* https://www.youtube.com/watch?v=KhqIxzdX0dI
